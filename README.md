@@ -1,3 +1,7 @@
-# android-mqtt-client-app
+# Eclipse Mqtt Paho
 
-It is still in development
+## Overview:
+    An example of an Android Application that using the mqtt.paho library
+    fragments and data binding
+
+The App is still in development

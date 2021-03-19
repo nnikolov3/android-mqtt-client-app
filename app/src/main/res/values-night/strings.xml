@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="led1" translatable="false">led1</string>
+  <string name="ipAddr">10.0.0.198:1883</string>
+</resources>
