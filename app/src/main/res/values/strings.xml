@@ -1,0 +1,6 @@
+<resources>
+  <string name="app_name">mqtt</string>
+  <string name="led1">led1</string>
+  <string name="led2" translatable="false">led2</string>
+  <string name="ipAddr">10.0.0.198:1883</string>
+</resources>
